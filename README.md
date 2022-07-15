@@ -44,6 +44,6 @@ Untuk melakukan UI Test jalankan command dibawah
 flutter test integration_test
 ```
 
-### Kontak
+### Ucapan Terimakasih
 Terimakasih atas ketertarikan dan telah mengundang saya untuk melakukan Technical Test
 
